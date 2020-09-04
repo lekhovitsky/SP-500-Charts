@@ -1,4 +1,4 @@
-# S&P500 Visualization
+# S&P 500 Visualization
 Final project for a graduate "Data Visualization" course at Ukrainian Catholic University
 
 The project consists of three pretty visualizations of S&P 500 stocks performance made with plotly.
