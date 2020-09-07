@@ -1,7 +1,7 @@
 # S&P 500 Charts
 Final project for a graduate "Data Visualization" course at Ukrainian Catholic University.
 
-The project consists of three pretty visualizations of S&P 500 stocks performance made with `plotly`.
+The project consists of three pretty interactive visualizations of S&P 500 stocks and sectors performance made with `plotly`.
 
 GitHub doesn't allow rendering large HTML files, so you can take a look at the results at these links:
 * [Figure 1: Stock-vs-Sector-vs-Market performance](https://htmlpreview.github.io/?https://github.com/lekhovitsky/SNP500-Visualization/blob/master/figures/fig1.html)
